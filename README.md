@@ -1,2 +1,0 @@
-# CheapLocalEats
-For CheapLocalEatsWebsites
